@@ -3,7 +3,7 @@ Speaker Identification Using Ensemble Learning Approach Considering CNN As Featu
 
 # 
 
-The folder named ***Sukanya_Rajlaxmi*** contains following contents 
+
 1. code file (in .ipynb format) of Audio Data Augmentation (file: Audio_data_augmentation).
 2. code file (in .ipynb format) of Mel Spectrogram Generation from audio data (file: Mel_Spectrogram_Generation).
 
