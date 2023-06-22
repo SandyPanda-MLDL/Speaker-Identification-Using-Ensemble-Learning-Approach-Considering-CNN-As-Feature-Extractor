@@ -1,7 +1,13 @@
 # Speaker-Identification-Using-Ensemble-Learning-Approach-Considering-CNN-As-Feature-Extractor
-Speaker Identification Using Ensemble Learning Approach Considering CNN As Feature Extractor
 
-# 
+This repository provides codes with datasets for Speaker Identification Using Ensemble Learning Approach Considering CNN As Feature Extractor.
+
+Cite this paper
+
+Dhar, S., Phukan, S., Gogoi, R., Jana, N.D. (2023). Speaker Identification Using Ensemble Learning With Deep Convolutional Features. In: Das, S., Saha, S., Coello Coello, C.A., Bansal, J.C. (eds) Advances in Data-driven Computing and Intelligent Systems. Lecture Notes in Networks and Systems, vol 653. Springer, Singapore. https://doi.org/10.1007/978-981-99-0981-0_9
+ 
+* Paper Link:
+    https://link.springer.com/chapter/10.1007/978-981-99-0981-0_9 
 
 
 1. code file (in .ipynb format) of Audio Data Augmentation (file: Audio_data_augmentation).
